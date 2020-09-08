@@ -62,7 +62,7 @@ function Contact() {
 
 //button using UI material
 function App() {
-  return <Button onClick={() => { alert('Values beat experience, when experience doesnt work hard. So please HIRE ME... !!!') }}>Click me </Button>;
+  return <Button onClick={() => { alert('Every expert was once a beginner and All that is needed to become one is an opportunity.HIRE ME already... !!!') }}>Click me </Button>;
 }
 
 
