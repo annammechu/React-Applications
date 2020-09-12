@@ -10,7 +10,7 @@ function Home() {
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
 			  style = {{ width: 500, height: 600 }}
-              src = {require('C:/React/my-app/src/img/pic.jpg')}
+              src = {require('F:/React/React/my-app/src/img/pic.jpg')}
               alt=""
             />
           </div>

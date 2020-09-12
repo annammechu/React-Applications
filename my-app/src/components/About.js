@@ -9,15 +9,15 @@ function About() {
           <div class="col-lg-7">
             <div>
 			<img
-              class="img-fluid rounded mb-4 mb-lg-0"
-              src={require('C:/React/my-app/src/img/cert.PNG')}
+              class="img-fluid rounded mb-4 mb-lg-0" 
+              src={require('F:/React/React/my-app/src/img/cert.PNG')}
               alt=""
             />
 			</div>
 			<div>
 			<img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src={require('C:/React/my-app/src/img/cert2.PNG')}
+              src={require('F:/React/React/my-app/src/img/cert2.PNG')}
               alt=""
             />
           </div>
@@ -59,14 +59,7 @@ function About() {
             </p>
 		</div>
 		<p>  </p>
-		<p><h1 class="font-weight-light"><b>My Recommendations</b></h1></p>
-            <img
-              class="img-fluid rounded mb-4 mb-lg-0"
-			  style = {{ width: 500, height: 300 }}
-              src={require('C:/React/my-app/src/img/recommendation.jpg')}
-              alt=""
-            />
-        </div>
+		</div>
       </div>
     </div>
   );

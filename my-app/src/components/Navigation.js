@@ -59,6 +59,15 @@ function Navigation(props) {
                   Experience
                 </Link>
               </li>
+			  <li
+                class={`nav-item  ${
+                  props.location.pathname === "/recommendation" ? "active" : ""
+                }`}
+              >
+                <Link class="nav-link" to="/recommendation">
+                  Recommendation
+                </Link>
+              </li>
               <li
                 class={`nav-item  ${
                   props.location.pathname === "/contact" ? "active" : ""

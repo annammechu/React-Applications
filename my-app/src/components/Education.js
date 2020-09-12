@@ -10,7 +10,7 @@ function Education() {
 		    <div class="col-lg-7">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src={require('C:/React/my-app/src/img/rmituni.jpg')}
+              src={require('F:/React/React/my-app/src/img/rmituni.jpg')}
               alt=""
             />
           </div>
@@ -28,7 +28,7 @@ function Education() {
           <div class="col-lg-7">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src={require('C:/React/my-app/src/img/panimalar.jpg')}
+              src={require('F:/React/React/my-app/src/img/panimalar.jpg')}
               alt=""
             />
           </div>
